@@ -1,0 +1,5 @@
+Buenas profe!
+
+Quiero hacer dos aclaraciones.
+La primera es que no pude probar el codigo ya que al tratar de instalar el compilador me daba errores en windows y no se me instaló correctamente. Mi PC tiene varios problemas y es algo habitual que no me permita instalar algo
+La segunda es que no supe realmente como hacer para que el programa tome cadenas de caracteres completas, asi que lo hice para que tome caracteres. Es decir, el programa deberia reconocer Caracter, separador y Fin de texto. Digo deberia pues no lo pude probar.
